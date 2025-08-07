@@ -192,3 +192,8 @@ a {
   text-decoration: none;
   color: rgb(228, 74, 12);
 }
+
+.left-image > span {
+  position: absolute;
+  bottom: 0;
+}
